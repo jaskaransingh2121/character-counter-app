@@ -34,7 +34,7 @@ Character-Counter-App/
 ---
 
 ## 🌐 Live Demo
-[Click Here to View Live Demo](YOUR_GITHUB_PAGES_LINK)
+[Click Here to View Live Demo](https://jaskaransingh2121.github.io/character-counter-app/)
 
 ---
 
